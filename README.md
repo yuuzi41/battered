@@ -16,7 +16,7 @@ TODO: write this section more.
 
 ## Licence
 
-[Apache License 2.0](https://github.com/yuuzi41/battered/blob/master/LICENCE)
+[Apache License 2.0](https://github.com/yuuzi41/battered/blob/master/LICENSE)
 
 ## Author
 
